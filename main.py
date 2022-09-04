@@ -8,7 +8,7 @@ import random
 
 today = datetime.now()
 start_date = os.environ['START_DATE']
-city = '北京'
+city = '邯郸'
 birthday = os.environ['BIRTHDAY']
 
 app_id = os.environ["APP_ID"]
